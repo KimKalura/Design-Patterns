@@ -3,7 +3,7 @@
 Here you can find the documentation of the Design Paterns repository
 
 ## 🚀 About Me
-💻(Aspiring) back-end software developer | 👨💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology
+💻Back-end software developer | 👨💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology
 
 
 ## 🛠 Skills
